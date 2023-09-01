@@ -9,4 +9,9 @@ Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous
 [Ce tutoriel](https://guides.github.com/features/mastering-markdown/) vous aidera à avoir la bonne syntaxe lorsque vous écrirez dans votre journal. Vous pouvez aussi vous référez à [cette *cheatsheet*](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md). 
 
 
-
+Les trucs qui m'intéressent le plus de TIM sont 
+*  Audio
+*  Vidéo
+*  Photographie
+  
+Cependant, si je devais choisir le plus intéressant, j'aurais choisi le cours d'audio. L'audio m'intéresse presque autant que la vidéo à cause que je veut apprendre à faire des montages. J'ai choisi l'intégration multimedia parce que les autres programmes n'allaient pas avec mes compétences même si je les aimais bien💀. Le cours de vidéo et d'audio me motivent, car je suis talentueux et j'aime beaucoup ces deux domaines. Je souhaite me spécialiser dans le domaine d'audio pour devenir un ***ingénieur sonore***.       
