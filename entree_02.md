@@ -14,13 +14,13 @@ J'ai choisi ce film, car le voyage du temps m'intéresse beaucoup. Le voyage du 
 Expliquer pourquoi vous avez choisi ce lien.
 J'ai choisi cet artiste parce qu'il rêvait de devenir un chanteur très reconnu dans le futur. Il nous a démontrer depuis vraiment longtemps dans un tweet qui disait qu'il allait réussi dans la vie avec son rêve d'artiste. Son rêve c'est accompli par le travail et non seulement le talent pour pouvoir créer des chansons intéressantes et collantes.
 
-### Lien 3 [Micheal Jackson] ()
+### Lien 3 [Jackie Chan] ()
 Expliquer pourquoi vous avez choisi ce lien.  
 J'ai choisi cet artiste parce qu'il a réussi a devenir une légende au sein du la musique populaire. Il a perséverer pour que son travail ne soit pas en vain même si sa devenait difficil et long.
 
 ### Lien 4 [Minecraft] ()
 Expliquer pourquoi vous avez choisi ce lien. 
-J'ai choisi ce jeux video parce qu'il est devenu très marquant dans l'histoire du jeux video. Le créateur, Notch, a créer un jeu extraordinaire simplement par sa sage créativité. La création de ce jeu a servi d'innovation pour d'autres personnes qui souhaiente innover comme moi. Cette invention est liée ma demarche artistique pour me motiver à créer des produits qui pourrait servir pour longtemps. 
+J'ai choisi ce jeux video parce qu'il est devenu très marquant dans l'histoire du jeux video. La création de ce jeu a servi d'innovation pour d'autres personnes qui souhaiente innover comme moi. Cette invention est liée ma demarche artistique pour me motiver à créer des produits ou/et du contenu qui pourrait servir pour longtemps. 
 
 ### Lien 5 [MrBeast] ()
 Expliquer pourquoi vous avez choisi ce lien. 
