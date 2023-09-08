@@ -19,6 +19,6 @@ J'ai choisi un film où Jackie Chan fait une cascade extraordinaire qui a mis sa
 Expliquer pourquoi vous avez choisi ce lien. 
 J'ai choisi ce jeu vidéo parce qu'il est devenu très marquant dans l'histoire des jeux vidéo. La création de ce jeu a servi d'innovation pour les utilisateurs et les créateurs de jeux. Cette invention est liée ma démarche artistique pour me motiver à créer des produits ou/et du contenu qui pourrait servir pour longtemps. 
 
-### Lien 5 [MrBeast] ()
+### Lien 5 [MrBeast] (https://www.youtube.com/@BeastPhilanthropy/videos)
 Expliquer pourquoi vous avez choisi ce lien. 
-J'ai choisi ce Youtubeur, car il utilise sa popularité à des fins d'aide et non seulement pour divertir une audience. Cela m'a inspiré pour ma démarche artistique parce que je souhaite aider et améliorer un futur service du multimédia pour que le plus de personnes possible puissent profiter d'une bonne expérience.
+J'ai choisi ce Youtubeur, car il utilise sa popularité à des fins d'aide et non seulement pour divertir une audience. Cela m'a inspiré pour ma démarche artistique parce que je souhaite aider et améliorer un futur service du multimédia. 
