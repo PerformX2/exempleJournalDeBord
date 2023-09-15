@@ -12,21 +12,21 @@ Je suis intéressé par le programme général parce que la technologie me passi
 ### Emplois qui vous intéressent
 Nommez deux emplois
 
-J'aimerais devenir monteur de vidéos ou d'audio. Sinon, je souhaite devenir créateur/directeur de films ou de jeux.
+J'aimerais devenir monteur de vidéos ou d'audio. Sinon, je souhaite devenir créateur/directeur de films ou de jeux. 
 
 ### Identification
 Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
 
-Je m'identifie comme Apple parce que je veux me démarquer des autres.
-Je m'identifie comme Eminem parce que je veux innover avec des choses jamais vues auparavant. 
+Je m'identifie comme Apple parce que je veux me démarquer des autres. Je m'identifie comme Eminem parce que je veux innover avec des choses jamais vues auparavant. 
 
 ### Dans 5 ans
 Où vous voyez-vous dans 5 ans? 
 
-Dans cinq ans, je me vois dans une grande entreprise comme Sony Studios pour pouvoir exercer ma spécialisation dans le domaine sonore. Si je deviens créateur/directeur je travaillerais avec peut être avec Warner Bros.
+Dans cinq ans, je me vois dans une grande entreprise comme Sony Studios pour pouvoir exercer ma spécialisation dans le domaine sonore.
 
 ### Projets
 Expliquez un ou des projets que vous aimeriez faire.
+
 
 
 Je souhaite faire partie d'un jeu vidéo ou d'un film très reconnu avec des effets sonores que je ferais.
