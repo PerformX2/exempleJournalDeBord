@@ -10,12 +10,12 @@ La RAC(Recording Arts Canada) de Montreal. Les gens étudient à l'aide des stud
 
 ### Programme 2 - Identification
 4 à 5 lignes
-L'UdeM - Majeure en études cinématographiques. Les élèves étudient à des tables rondes, des conférences, des projections, etc. Il faut avoir un DEC avec une côte R d'au moins 20,00. Je suis intéressé de pouvoir enrichir mes connaissances dans le domaine cinématographique. Les conférences rendent ce métier moins intéressant.
+L'UdeM - Majeure en études cinématographiques. Les élèves doivent assister à des tables rondes, des conférences, des projections, etc. Les élèves étudient à des tables rondes, des conférences, des projections, etc. Il faut avoir un DEC avec une côte R d'au moins 20,00. Je suis intéressé de pouvoir enrichir mes connaissances dans le domaine cinématographique. Les conférences rendent ce métier moins intéressant.
 
 
 ### Programme 3 - Identification
 4 à 5 lignes 
-L'UdeM - DESS en arts, création et technologies. Les étudiants étudient à      . Il faut avoir un BAC avec une durée de trois ans. Cette spécialisation me permet d'accomplir une formation artistique. Je dois malheureusement toucher des thèmes qui ne m'intéressent pas trop.
+L'UdeM - DESS en arts, création et technologies. Les étudiants doivent faire une formation pluridisciplinaire. Les étudiants étudient dans un environnement très varié, mais la majorité du temps c'est derrière un écran. Il faut avoir un BAC avec une durée de trois ans. Cette spécialisation me permet d'accomplir une formation artistique. Je dois malheureusement toucher des thèmes qui ne m'intéressent pas trop.
 
 
 ### Programme 4 - Identification
