@@ -20,13 +20,13 @@ L'UdeM - DESS en arts, création et technologies. Les étudiants doivent faire u
 
 ### Programme 4 - Identification
 4 à 5 lignes
-L'UdeM - Maîtrise en musique, option Composition et création sonore. Les élèves étudient à Il faut avoir un BAC avec une durée de trois ans. Cette maitrise me permet de développer une démarche artistique personalisée à avec mon style. C'est long avant d'atteindre cette maitrise.
+L'UdeM - Maîtrise en musique, option Composition et création sonore. Les élèves doivent développer un langage personel avec des outils pour pouvoir les guider. Les élèves étudient à des institutions sonores tel que l'Orchestre de l'Université de Montréal (OUM). Il faut avoir un BAC avec une durée de trois ans. Cette maitrise me permet de développer une démarche artistique personalisée à avec mon style. C'est long avant d'atteindre cette maitrise.
 
 
 
 ### Programme 5 - Identification
 4 à 5 lignes
-L'UdeM - Maîtrise en cinéma. Les élèves étudient à des laboratoires, des séminaires, etc. Il faut avoir un BAC avec une durée de trois ans. Cette maitrise me permet d'approfondir mon analytique et mon esprit critique. Il faut faire beaucoup de recherche.
+L'UdeM - Maîtrise en cinéma. Les élèves doivent développer les aptitudes de recherche. Les élèves étudient à des laboratoires, des séminaires, etc. Il faut avoir un BAC avec une durée de trois ans. Cette maitrise me permet d'approfondir mon analytique et mon esprit critique. Il faut faire beaucoup de recherche.
 
 
 
