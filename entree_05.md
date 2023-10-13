@@ -6,7 +6,7 @@ J'ai étudier deux fois dans la semaine. J'ai aussi étudié mes notes de cours 
 
 ### Points à améliorer
 Nommer deux points à améliorer de votre préparation à l'examen ainsi qu'une piste de solution pour les prochains examens. 
-Ne pas procrastiner et ne pas lire trop vite. Je dois me préparer 
+Ne pas procrastiner et ne pas lire trop vite. Je dois me préparer plus de jour en avance.
 
 ### Gestion du temps
 Comment avez-vous géré votre temps lors de l'examen?
