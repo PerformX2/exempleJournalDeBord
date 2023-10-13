@@ -14,8 +14,8 @@ J'ai divisé mon temps par le nombre de question.
 
 ### Outils et ressources
 Quels outils et ressources avez-vous utilisés pour la préparation à l'examen?
-
+Google(navigateur), les powerpoints et mes notes de cours
 
 ### Difficultés
 Quelles sont les difficultés que vous avez rencontrées pendant l'examen?
-
+L'hésitation entre deux questions
