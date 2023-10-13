@@ -10,9 +10,11 @@ Ne pas procrastiner et ne pas lire trop vite. Je dois me préparer plus de jour 
 
 ### Gestion du temps
 Comment avez-vous géré votre temps lors de l'examen?
+J'ai divisé mon temps par le nombre de question.
 
 ### Outils et ressources
 Quels outils et ressources avez-vous utilisés pour la préparation à l'examen?
+
 
 ### Difficultés
 Quelles sont les difficultés que vous avez rencontrées pendant l'examen?
