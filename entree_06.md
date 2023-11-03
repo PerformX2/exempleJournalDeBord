@@ -13,3 +13,5 @@ Donnez votre opinion sur l'oeuvre que nous avons visitée. Vous a-t-elle plu? Ou
 
 ### Analyse critique
 Qu'est-ce qui pourrait être modifié dans cette oeuvre? 
+
+Pour la sortie multimédia, j'ai choisi Le Jubilé d'Or.
