@@ -14,4 +14,4 @@ Donnez votre opinion sur l'oeuvre que nous avons visitée. Vous a-t-elle plu? Ou
 ### Analyse critique
 Qu'est-ce qui pourrait être modifié dans cette oeuvre? 
 
-Pour la sortie multimédia, j'ai choisi Le Jubilé d'Or. Cette oeuvre comporte deux chambres qui doivent être résolues en soixante minutes.
+Pour la sortie multimédia, j'ai choisi Le Jubilé d'Or. Cette oeuvre comporte deux chambres qui doivent être résolues en soixante minutes. Dans la première chambre, on retrouve un rail avec un charriot dessus qu'on peut déplacer.
