@@ -21,6 +21,6 @@ Je pense que le développement était assez bien reçu. L'attention du public pa
 ### Qualité visuelle (Entre 1 et 2 lignes)
 Comment avez-vous trouvé la qualité visuelle de la conférence?Est-ce que l'esthétisme était de qualité?
 
-Je crois que la qualité visuelle était satisfaisante. Oui, on voyait clairement les éléments en lien avec l'explication.
+Je crois que la qualité visuelle était satisfaisante. Oui, on voyait clairement les éléments en lien avec l'explication. Les diapositives n'était pas trop chargée puis elles étaient bien supporter par la conférencière.
 
 
