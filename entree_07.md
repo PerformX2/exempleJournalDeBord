@@ -11,7 +11,7 @@ Comment avez-vous trouvez la conférence? Vous a-t-elle plu? Ou pas du tout? Pou
 ### Clarté de la conférence (Entre 1 et 2 lignes)
 Comment avez-vous trouvé la clarté de la conférence? Est-ce que les idées étaient claires et concise?                                                                                              
 
-Personnellement, je pense que ce n'était pas clair parce qu'elle ne parlait pas fort. Il y avait trop d'informations en même temps, mais surtout, l'explication et les parenthèses étaient trop longues. Cela faisait en sorte que l'attention des personnes partait.
+Personnellement, je pense que ce n'était pas clair parce qu'elle ne parlait pas avec assez de dynamisme. Il y avait trop d'informations en même temps, mais surtout, l'explication et les parenthèses étaient trop longues. Cela faisait en sorte que l'attention des personnes partait.
 
 ### Structure de la conférence (Entre 1 et 2 lignes)
 Comment avez-vous trouvé la clarté de la conférence? Est-ce que le développement était logique?
