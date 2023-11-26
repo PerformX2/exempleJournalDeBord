@@ -6,7 +6,7 @@ L’objectif de cet exercice est de développer une opinion sur la conférence q
 ### Description (Entre 4 et 6 lignes)
 Comment avez-vous trouvez la conférence? Vous a-t-elle plu? Ou pas du tout? Pourquoi? Est-ce que certains aspects vous ont plus touchés que d'autres? Est-ce que la conférence vous a été utile?
 
-À mon opinion, la conférence était intéressante. Grâce à la conférence, j'ai appris plus sur le milieu du travail. L'expérience de la conférencière m'a beaucoup aider pour savoir à quoi m'attendre quand je serait rendu dans le marché du travail. Ça m'a aussi aider pour savoir mieux me guider plus tard. J'ai aimé la conférence parce que je respecte beaucoup le travail de ses gens. Un aspect m'a plus touché que d'autres, j'ai beaucoup aimé le fait de bien choisir le public ciblé pour l'utilisation d'un service. 
+À mon opinion, la conférence était intéressante. Grâce à la conférence, j'ai appris plus sur le milieu du travail. L'expérience de la conférencière m'a beaucoup aidé pour savoir à quoi m'attendre quand je serais rendu dans le marché du travail. Ça m'a aussi aidé pour savoir mieux me guider plus tard. J'ai aimé la conférence parce que je respecte beaucoup le travail de ces gens. Un aspect m'a plus touché que d'autres, j'ai beaucoup aimé le fait de bien choisir le public ciblé pour l'utilisation d'un service. 
 
 ### Clarté de la conférence (Entre 1 et 2 lignes)
 Comment avez-vous trouvé la clarté de la conférence? Est-ce que les idées étaient claires et concise?
