@@ -16,7 +16,7 @@ Personnellement, je pense que ce n'était pas toujours clair parce qu'elle ne pa
 ### Structure de la conférence (Entre 1 et 2 lignes)
 Comment avez-vous trouvé la clarté de la conférence? Est-ce que le développement était logique?
 
-Je pense que le développement était assez bien reçu. L'attention du public partait vite, encore une fois, à cause d'un manque de dynamique.
+Je pense que le développement était assez bien reçu et logique. L'attention du public partait vite, encore une fois, à cause d'un manque de dynamique.
 
 ### Qualité visuelle (Entre 1 et 2 lignes)
 Comment avez-vous trouvé la qualité visuelle de la conférence?Est-ce que l'esthétisme était de qualité?
