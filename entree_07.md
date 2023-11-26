@@ -9,7 +9,7 @@ Comment avez-vous trouvez la conférence? Vous a-t-elle plu? Ou pas du tout? Pou
 À mon opinion, la conférence était intéressante. Grâce à la conférence, j'ai appris plus sur le milieu du travail. L'expérience de la conférencière m'a beaucoup aidé pour savoir à quoi m'attendre quand je serais rendu dans le marché du travail. Ça m'a aussi aidé pour savoir mieux me guider plus tard. J'ai aimé la conférence parce que je respecte beaucoup le travail de ces gens. Un aspect m'a plus touché que d'autres, j'ai beaucoup aimé le fait de bien choisir le public ciblé pour l'utilisation d'un service. 
 
 ### Clarté de la conférence (Entre 1 et 2 lignes)
-Comment avez-vous trouvé la clarté de la conférence? Est-ce que les idées étaient claires et concise?
+Comment avez-vous trouvé la clarté de la conférence? Est-ce que les idées étaient claires et concise?                                                                                              
 
 Personnellement, je pense que ce n'était pas clair parce qu'elle ne parlait pas fort. Il y avait trop d'informations en même temps, mais surtout, l'explication et les parenthèses étaient trop longues. Cela faisait en sorte que l'attention des personnes partait.
 
