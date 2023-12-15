@@ -39,7 +39,7 @@ Après avoir complété ma première session au Cégep, j'ai remarqué que je do
 
 
 ### Entre le cours 1 et aujourd'hui, quelles découvertes as-tu faites sur le domaine du multimédia? 
-Je crois que j'ai choisi le programme parfait en corrélation avec mes habiletés et mes goûts. La majorité des cours me plaisent. Je souhaite continuer dans ce programme. J'ai remarqué que la programmation n'est pas facile pour moi (Je suis un des moins bons de la classe). Par contre, je suis vraiment bon dans les autres cours. Je pense que je suis fait pour le côté plus artistique  et créatif du domaine. 
+J'ai remarqué que j'ai choisi le programme parfait en corrélation avec mes habiletés et mes goûts. La majorité des cours me plaisent. Je souhaite continuer dans ce programme. J'ai remarqué que la programmation n'est pas facile pour moi (Je suis un des moins bons de la classe). Par contre, je suis vraiment bon dans les autres cours. Je pense que je suis fait pour le côté plus artistique  et créatif du domaine. 
 
 
 ### As-tu découvert un nouveau métier qui pourrait t'intéresser? 
