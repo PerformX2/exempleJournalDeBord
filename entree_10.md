@@ -35,11 +35,11 @@ Quelle présentation avez-vous préféré et pourquoi?
 
 ## Rétrospective de la session
 ## Écris un retour sur ta session (1 à 2 lignes par question)
-Après avoir complété une session au cégep, je crois que j'ai choisi le programme parfait en corrélation avec mes habiletés et mes goûts.
+Après avoir complété ma première session au Cégep, j'ai remarqué que je dois organiser mieux mon temps en sacrifiant des loisirs pour éviter d'être serré dans le temps. J'ai aimé le rythme cette session, malgré les travaux condensés. Ça permet d'avancer plus vite à travers les études.
 
 
 ### Entre le cours 1 et aujourd'hui, quelles découvertes as-tu faites sur le domaine du multimédia? 
-
+Je crois que j'ai choisi le programme parfait en corrélation avec mes habiletés et mes goûts. La majorité des cours me plaisent. Je souhaite continuer d
 
 
 ### As-tu découvert un nouveau métier qui pourrait t'intéresser? 
