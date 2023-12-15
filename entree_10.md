@@ -21,7 +21,7 @@ Mon collègue de classe et moi avons organier un moment de rencontre pour travai
 ### Outils et ressources
 Quels outils et ressources avez-vous utilisés pour la préparation de votre présentation?
 
-On a réutilisé les éléments qu'on a trouvés pour le Trello. De plus, on a rechercher un template sur internet pour mieux nous guider avec la disposition des informations.
+On a réutilisé les éléments qu'on a trouvés pour le Trello. De plus, on a recherché un template sur internet pour mieux nous guider avec la disposition des informations.
 
 ### Difficultés
 Quelles sont les difficultés que vous avez rencontrées pendant la présentation?
