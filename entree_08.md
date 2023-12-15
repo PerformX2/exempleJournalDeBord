@@ -20,6 +20,6 @@ C'est un jeu en réalité virtuelle. Pour la réalité virtuelle, il faut utilis
 ### Tâches
 Quelles sont les tâches nécessaires à la réalisation de votre projet? 
 
-Il faut réfléchir aux éléments nécessaires pour savoir quoi rechercher. Il faut diviser les tâches par deux. De plus, il faut assembler les idées surgies afin de pouvoir développer le travail. S'il y a des doutes, il faut se mettre en accord avec le collègue de travail pour prendre les meilleures décisions possibles.
+Il faut réfléchir aux éléments nécessaires pour savoir quoi rechercher. Il faut diviser les tâches par deux. De plus, il faut assembler les idées surgies afin de pouvoir développer le travail. S'il y a des doutes, il faut se mettre en accord avec le collègue de travail pour prendre les meilleures décisions possibles
 
 
