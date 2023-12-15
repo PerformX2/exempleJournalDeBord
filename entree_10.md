@@ -9,7 +9,7 @@ Nommer deux points forts de votre présentation.
 
 ### Points à améliorer
 Nommer deux points à améliorer de votre présentation ainsi qu'une piste de solution pour les prochaines présentations. 
-
+Je pense que
 
 ### Gestion du temps
 Comment avez-vous géré votre temps lors de la présentation?
