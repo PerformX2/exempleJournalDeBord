@@ -20,3 +20,5 @@ C'est un jeu en réalité virtuelle avec choix multiples. C'est-à-dire que les 
 ### Tâches
 Quelles sont les tâches nécessaires à la réalisation de votre projet? 
 
+Il faut diviser les tâches par deux. Aussi, il faut assembler les idées surgies afin de pouvoir développer le travail.
+
