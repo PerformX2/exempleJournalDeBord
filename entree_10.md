@@ -44,7 +44,7 @@ Je crois que j'ai choisi le programme parfait en corrélation avec mes habileté
 
 ### As-tu découvert un nouveau métier qui pourrait t'intéresser? 
 
-Non pas vraiment, je pense toujours à continuer mon parcours scolaire pour me spécialiser dans le domaine d'audio, mais je souhaite aussi travailler l'aspect visuel. J'ai découvert que je suis très créatif et doué avec le visuel.
+Oui, je pense toujours à continuer mon parcours scolaire pour me spécialiser dans le domaine d'audio, mais je souhaite aussi travailler l'aspect visuel. J'ai découvert que je suis très créatif et doué avec le visuel.
 
 
 ### As-tu découvert un nouvel artiste qui t'a inspiré? 
