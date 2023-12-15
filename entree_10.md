@@ -44,6 +44,7 @@ Je crois que j'ai choisi le programme parfait en corrélation avec mes habileté
 
 ### As-tu découvert un nouveau métier qui pourrait t'intéresser? 
 
+Non, je pense toujours à continuer mon parcours scolaire pour me spécialiser dans le domaine audio/visuel.
 
 
 ### As-tu découvert un nouvel artiste qui t'a inspiré? 
