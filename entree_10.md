@@ -35,7 +35,7 @@ Quelle présentation avez-vous préféré et pourquoi?
 
 ## Rétrospective de la session
 ## Écris un retour sur ta session (1 à 2 lignes par question)
-
+Après avoir complété une session au cégep, je crois que j'ai choisi le programme parfait en corrélation avec mes habiletés et mes goûts.
 
 
 ### Entre le cours 1 et aujourd'hui, quelles découvertes as-tu faites sur le domaine du multimédia? 
@@ -48,8 +48,16 @@ Quelle présentation avez-vous préféré et pourquoi?
 
 ### As-tu découvert un nouvel artiste qui t'a inspiré? 
 
+
+
 ### Pour quel type d'entreprise préférerais-tu travailler? 
+
+
 
 ### Est-ce qu'un des domaines du multimédia t'intéresse plus que les autres? 
 
+
+
 ### Est-ce que tu as préféré une sortie ou une conférence?
+
+
