@@ -30,15 +30,17 @@ Quelles sont les difficultés que vous avez rencontrées pendant la présentatio
 
 ### Présentation préférée
 Quelle présentation avez-vous préféré et pourquoi?
-
+-----------------------------------------------------------------------------
 
 
 ## Rétrospective de la session
 ## Écris un retour sur ta session (1 à 2 lignes par question)
+
 Après avoir complété ma première session au Cégep, j'ai remarqué que je dois mieux organiser mon temps en sacrifiant des loisirs pour éviter d'être serré dans le temps. J'ai aimé le rythme cette session, malgré les travaux condensés. Ça permet d'avancer plus vite à travers les études.
 
 
 ### Entre le cours 1 et aujourd'hui, quelles découvertes as-tu faites sur le domaine du multimédia? 
+
 J'ai remarqué que j'ai choisi le programme parfait en corrélation avec mes habiletés et mes goûts. La majorité des cours me plaisent. Je souhaite continuer dans ce programme. J'ai remarqué que la programmation n'est pas facile pour moi (Je suis un des moins bons de la classe). Par contre, je suis vraiment bon dans les autres cours. Je pense que je suis fait pour le côté plus artistique et créatif du domaine. 
 
 
@@ -48,6 +50,7 @@ Oui, je pense toujours à continuer mon parcours scolaire pour me spécialiser d
 
 
 ### As-tu découvert un nouvel artiste qui t'a inspiré? 
+
 Non, j'ai encore en tête les mêmes artistes que la dernière fois. Par contre, certain de ces artistes ont présenté quelques nouveautés qui m'ont intéressé.
 
 
