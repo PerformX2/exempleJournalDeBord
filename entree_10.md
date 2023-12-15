@@ -56,7 +56,7 @@ Non, j'ai encore en tête les mêmes artistes que la dernière fois. Par contre,
 
 ### Pour quel type d'entreprise préférerais-tu travailler? 
 
-Je préfère travailler pour une startup. Parce que j'ai des rêves en tête qui peuvent marcher si je dédis du temps et des efforts.
+Je préfère travailler pour une startup. Parce que j'ai des rêves en tête qui peuvent marcher, si je dédis du temps et des efforts.
 
 ### Est-ce qu'un des domaines du multimédia t'intéresse plus que les autres? 
 
