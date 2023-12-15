@@ -60,7 +60,7 @@ Je préfère travailler pour une startup. Parce que j'ai des rêves en tête qui
 
 ### Est-ce qu'un des domaines du multimédia t'intéresse plus que les autres? 
 
-
+Oui, l'audio m'intéresse beaucoup plus que le reste des cours.
 
 ### Est-ce que tu as préféré une sortie ou une conférence?
 
