@@ -13,6 +13,7 @@ https://trello.com/b/rIlXtZMY/pr%C3%A9sentation-synth%C3%A8se-jeu-horreur-vr
 
 ### Technologies
 Décrivez quelles seront les technologies utilisées dans votre projet. 
+C'est un jeu en réalité virtuelle avec choix multiples. C'est-à-dire que les décisions prises par le joueur aura des conséquences sur le scénario et le gameplay.
 
 ### Tâches
 Quelles sont les tâches nécessaires à la réalisation de votre projet? 
