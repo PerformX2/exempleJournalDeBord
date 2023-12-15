@@ -13,7 +13,7 @@ Nommer deux points à améliorer de votre présentation ainsi qu'une piste de so
 
 ### Gestion du temps
 Comment avez-vous géré votre temps lors de la présentation?
-Mon collègue de classe et moi avons organier un moment de rencontre pour travailler sur la présentation.
+Mon collègue de classe et moi avons organier un moment de rencontre pour travailler sur la présentation. Nous avons terminer à temps pour la remise.
 
 ### Outils et ressources
 Quels outils et ressources avez-vous utilisés pour la préparation de votre présentation?
