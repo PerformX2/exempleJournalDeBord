@@ -10,7 +10,7 @@ Je crois qu'on a bien exécuté les informations requises. De plus, le template 
 ### Points à améliorer
 Nommer deux points à améliorer de votre présentation ainsi qu'une piste de solution pour les prochaines présentations. 
 
-Je pense qu'on a mit trop de texte. Cela fait en sorte que la visibilité n'est pas bonne à certain moment.
+Je pense qu'on a mit trop de texte. Cela fait en sorte que la visibilité n'est pas bonne à certain moment. Aussi, il faut être plus efficace lors de l'exécution des éléments.
 
 ### Gestion du temps
 Comment avez-vous géré votre temps lors de la présentation?
