@@ -15,7 +15,7 @@ Je pense qu'on a mit trop de texte. Cela fait en sorte que la visibilité n'est 
 ### Gestion du temps
 Comment avez-vous géré votre temps lors de la présentation?
 
-Mon collègue de classe et moi avons organier un moment de rencontre pour travailler sur la présentation. Nous avons terminer à temps pour la remise.
+Mon collègue de classe et moi avons organiser un moment de rencontre pour travailler sur la présentation. Nous avons terminer à temps pour la remise.
 
 ### Outils et ressources
 Quels outils et ressources avez-vous utilisés pour la préparation de votre présentation?
@@ -25,7 +25,7 @@ On a réutilisé les éléments qu'on a trouvés pour le Trello. De plus, on a r
 ### Difficultés
 Quelles sont les difficultés que vous avez rencontrées pendant la présentation?
 
-
+On a eu de la misère à trouver des informations plus précise. C'était difficile d'innover étant donné que l'industrie du jeu possède déjà un catalogue très varié.
 
 ### Présentation préférée
 Quelle présentation avez-vous préféré et pourquoi?
