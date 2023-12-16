@@ -6,7 +6,6 @@ Nommer deux points forts de votre présentation.
 
 Je crois qu'on a bien exécuté les informations requises. De plus, le template choisi a l'air de bien s'adapter avec les informations. L'organisation et la précision des éléments présentés. On peut voir clairement les éléments clés demandé.
 
-L'organisation et la précision des éléments présentés.
 
 ### Points à améliorer
 Nommer deux points à améliorer de votre présentation ainsi qu'une piste de solution pour les prochaines présentations. 
